@@ -1,0 +1,6 @@
+[run]
+source = template
+omit = 
+    tests/*
+    autoapp.py
+
