@@ -23,7 +23,7 @@
   "author": "flask-template",
   "license": "MIT",
   "engines": {
-    "node": ">="
+    "node": ">=22.15.0"
   },
   "bugs": {
     "url": "https://github.com/fumblehool/template/issues"
